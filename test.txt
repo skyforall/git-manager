@@ -1,0 +1,11 @@
+// java
+System.out.println("hello world");
+
+// c++
+cout << "hello world" << endl;
+
+// c
+printf("hello world");
+
+// python
+print "hello world"
